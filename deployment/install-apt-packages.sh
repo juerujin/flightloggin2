@@ -4,16 +4,21 @@ apache2 \
 mercurial \
 bzr \
 subversion \
+
+May not work
 postgresql-9.1-postgis \
+postgresql-contrib-9.1 \
+
+
+
+
 python-pip \
 python-dev \
 python-virtualenv \
 libapache2-mod-wsgi \
-python-virtualenv \
 python-matplotlib \
-postgresql-contrib-9.1 \
 proj \
-linpng12-dev \
+libpng-dev \
 libfreetype6-dev \
 libpq-dev \
 libgeos-dev \
